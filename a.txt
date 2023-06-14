@@ -18,3 +18,4 @@ print(num1, "/", num2, "=", res)
 
 
 print("배고파")
+print("이삭먹고싶어")
