@@ -1,0 +1,7 @@
+def add_func(num1, num2):
+    result = num1 + num2
+    return result
+
+def sub_func(num1, num2):
+    result = num1 - num2
+    return result
